@@ -58,10 +58,16 @@ npm run dev
 cd ../frontend
 npm install
 
-### 6. Run frontend
+### 6. Create a .env file inside the /frontend folder:
+
+REACT_APP_BACKEND_URL=http://localhost:5000
+
+
+### 7. Run frontend
+
 npm start
 
-### 7. Access the App
+### 8. Access the App
 
 Open your browser and navigate to: http://localhost:3000
 
