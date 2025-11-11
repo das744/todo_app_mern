@@ -5,11 +5,11 @@ Allows creating, reading, updating, and deleting tasks.
 Tasks will be save to MongoDB Compass Database
 ---
 
-## **Setup Instructions**
+## Setup Instructions
 
 1. Clone the repository:
 
-git clone <repo_url>
+git clone https://github.com/das744/todo_app_mern.git
 cd backend
 
 2. Install dependencies:

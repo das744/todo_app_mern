@@ -1,5 +1,5 @@
-# MERN Todo App
 
+# MERN Todo App
 A full-stack **MERN (MongoDB, Express, React, Node.js)** application that allows users to create, view, update, and delete tasks.  
 Each task includes a title, description, and status (Not Started, In Progress, Completed).
 
@@ -26,7 +26,7 @@ todo_App_MERN/
 │ ├── package.json
 │ └── README.md
 │
-└── README.md # (this file)
+└── README.md 
 
 
 ---
@@ -35,7 +35,7 @@ todo_App_MERN/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/todo_App_MERN.git
+git clone https://github.com/das744/todo_app_mern.git
 cd todo_App_MERN
 
 ### 2. Setup Backend
