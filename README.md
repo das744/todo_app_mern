@@ -78,7 +78,19 @@ Frontend: React (TypeScript), Axios
 
 Backend: Node.js, Express, Mongoose, TypeScript, dotenv, cors
 
-Database: MongoDB Compass (locally)
+Database: MongoDB Compass 
+
+### Tech Stack and Reasoning
+
+React + TypeScript (Frontend): For a dynamic, component-based UI that updates tasks in real-time and ensures type safety.
+
+Node.js + Express (Backend): Provides a lightweight REST API to handle task operations efficiently.
+
+MongoDB: A flexible NoSQL database to store tasks with varying fields like title, description, and status.
+
+### Why this stack:
+
+Using the MERN stack allows consistent JavaScript development across frontend and backend, supports dynamic updates efficiently, and makes the app easily scalable for future features.
 
 ### Author
 Developed by Ajanta Das
